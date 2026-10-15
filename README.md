@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ramal! 👋
 
-<!--
-**hastonskie/Hastonskie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 10th-grade student on a mission to build a career in software engineering. I love challenging problems and pushing my brain to think critically. For personal and health reasons, coding is the ideal path for me—giving me the focus, flexibility, and drive to turn ambition into real projects.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Doing Now
+- 🐍 **Currently:** Mastering Python fundamentals and logic.
+- ⚡ **Next up:** Planning to dive deep into **C++** and computer systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Roadmap & Long-term Goals
+- 🎓 **Bachelor's:** Software Engineering at **ITMO University** (St. Petersburg).
+- 🌍 **Master's:** Aiming for graduate studies in **Munich, Germany**.
+- 🏔️ **The Ultimate Dream:** Living and working in **Switzerland** as a software engineer.
+
+No matter the obstacles or setbacks along the way, I'm committed to grinding and leveling up every single day.
+
+Thanks for stopping by, and I hope you enjoy following my coding journey!
